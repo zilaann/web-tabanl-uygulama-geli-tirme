@@ -1,0 +1,3 @@
+class yonetici{
+    static envanter = [];
+}
